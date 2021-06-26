@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@layer components {
+/* @layer components {
   .btn {
     @apply inline-block px-5 py-3 rounded-lg focus:outline-none focus:ring focus:ring-offset-2 focus:ring-opacity-50 uppercase tracking-wider font-semibold text-sm;
   }
@@ -17,4 +17,4 @@
     focus:ring-gray-500
     active:bg-gray-600;
   }
-}
+} */

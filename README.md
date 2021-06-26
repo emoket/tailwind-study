@@ -1,10 +1,11 @@
 # tailwind-study
 
-## tailwind-only branch
+## tailwind-with-react branch
 
-tailwind 기능만을 사용한 순수 정적 파일 브랜치
+tailwind + react 활용한 컴포넌트 기반 브랜치
 
 - base
 - components
 - utilities
 - layer
+- react
